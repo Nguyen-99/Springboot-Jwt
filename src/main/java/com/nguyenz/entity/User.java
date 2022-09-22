@@ -64,9 +64,6 @@ public class User {
 		this.roles = roles;
 	}
 	
-	public void test1() throws Exception {
-		
-	}
 	
 
 	
