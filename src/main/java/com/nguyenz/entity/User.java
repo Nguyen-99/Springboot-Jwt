@@ -63,6 +63,10 @@ public class User {
 	public void setRoles(String[] roles) {
 		this.roles = roles;
 	}
+	
+	public void test1() throws Exception {
+		
+	}
 
 	
 }
